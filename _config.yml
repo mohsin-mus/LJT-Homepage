@@ -90,3 +90,24 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+
+# The files below are placeholders that came with the template. They are kept in
+# the repository, but are not rendered on the site -- delete them once you have
+# replaced them with your own content.
+exclude:
+  - "_posts/*"                                                        # placeholder blog posts
+  - "_talks/*"                                                        # placeholder talks
+  - "_teaching/*"                                                     # placeholder teaching entries
+  - "_drafts/*"                                                       # placeholder draft post
+  # placeholder publication file names, kept so that no template content remains
+  - "_publications/2009-10-01-paper-title-number-1.md"
+  - "_publications/2010-10-01-paper-title-number-2.md"
+  - "_publications/2015-10-01-paper-title-number-3.md"
+  - "_publications/2024-02-17-paper-title-number-4.md"
+  - "_publications/2025-06-08-paper-title-number-5.md"
